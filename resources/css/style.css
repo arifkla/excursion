@@ -32,6 +32,7 @@ color: Gray;
 .footer p{
   text-align: Right;
   color: Gray;
+  font-weight: lighter;
 }
 
 img{
